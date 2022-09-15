@@ -1,0 +1,2 @@
+(this["webpackJsonpmini-app"]=this["webpackJsonpmini-app"]||[]).push([[0],{139:function(n,e,t){},140:function(n,e,t){"use strict";t.r(e);t(0);var i=t(19),p=t.n(i),c=t(13),s=t.n(c),r=(t(9),t(137),t(7)),o=(t.p,t(139),function(){return Object(r.jsx)("h1",{children:"\u043f\u0440\u0438\u0432\u0435\u0442"})});s.a.send("VKWebAppInit"),p.a.render(Object(r.jsx)(o,{}),document.getElementById("root"))}},[[140,1,2]]]);
+//# sourceMappingURL=main.f4a9be5f.chunk.js.map

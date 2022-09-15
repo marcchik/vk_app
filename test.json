@@ -1,0 +1,152 @@
+{
+  "response": {
+    "count": 36,
+    "items": [
+      {
+        "id": 68,
+        "from_id": 402142010,
+        "owner_id": -185541206,
+        "date": 1663247268,
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "Кто на плоты?",
+        "attachments": [
+          {
+            "type": "poll",
+            "poll": {
+              "multiple": false,
+              "end_date": 0,
+              "closed": false,
+              "is_board": false,
+              "can_edit": false,
+              "can_vote": false,
+              "can_report": false,
+              "can_share": false,
+              "created": 1663247268,
+              "id": 775126612,
+              "owner_id": -185541206,
+              "question": "Кто на плоты?",
+              "votes": 0,
+              "disable_unvote": false,
+              "anonymous": false,
+              "answer_ids": [],
+              "embed_hash": "775126612_c97a38f3d8797c26ac",
+              "answers": [
+                {
+                  "id": 2155251602,
+                  "rate": 0.000000,
+                  "text": "я",
+                  "votes": 0
+                },
+                {
+                  "id": 2155251603,
+                  "rate": 0.000000,
+                  "text": "не я",
+                  "votes": 0
+                }
+              ],
+              "author_id": 402142010
+            }
+          }
+        ],
+        "comments": {
+          "count": 0
+        },
+        "likes": {
+          "can_like": 0,
+          "count": 0,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0
+        },
+        "donut": {
+          "is_donut": false
+        },
+        "short_text_rate": 0.800000,
+        "hash": "BqtAKB_B06MA__1oKA"
+      },
+      {
+        "id": 67,
+        "from_id": -185541206,
+        "owner_id": -185541206,
+        "date": 1659210189,
+        "marked_as_ads": 0,
+        "post_type": "post",
+        "text": "«Ночь на плоту» 🌚",
+        "attachments": [
+          {
+            "type": "video",
+            "video": {
+              "access_key": "f68ab072df6a514d1a",
+              "can_comment": 0,
+              "can_like": 1,
+              "can_repost": 1,
+              "can_subscribe": 1,
+              "can_add_to_faves": 0,
+              "can_add": 1,
+              "comments": 0,
+              "date": 1659209846,
+              "duration": 0,
+              "image": [
+                {
+                  "url": "https:\/\/vk.com\/images\/video\/thumbs\/video_s.png",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https:\/\/vk.com\/images\/video\/thumbs\/video_m.png",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https:\/\/vk.com\/images\/video\/thumbs\/video_l.png",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https:\/\/vk.com\/images\/video\/thumbs\/video_x.png",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "width": 1280,
+              "height": 720,
+              "id": 456239049,
+              "owner_id": -185541206,
+              "title": "Видео недоступно",
+              "track_code": "video_2c291aa3rc1LTyoUEYTmAEkutXTmw3LsdD68Sit4quPHV8Raj0eb7FJPIBES7-EFeRjqQNP1QN9NDohzLw_Ljw",
+              "type": "video",
+              "views": 0,
+              "content_restricted": 1,
+              "content_restricted_message": "Видео доступно только в официальном приложении ВКонтакте"
+            }
+          }
+        ],
+        "comments": {
+          "count": 0
+        },
+        "likes": {
+          "can_like": 0,
+          "count": 3,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0
+        },
+        "views": {
+          "count": 58
+        },
+        "donut": {
+          "is_donut": false
+        },
+        "short_text_rate": 0.800000,
+        "hash": "E-a-N6PrUuKip0ZQLA"
+      }
+    ]
+  }
+}
